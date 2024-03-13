@@ -1,6 +1,6 @@
 # Web Scraping Challenge
 
-News article and weather data was scraped, cleaned, analyzed, and visualized to identify trends and make conclusions. Web scraping was conducted using Splinter to automatically browse and Beautiful Soup to parse HTML. The data that was scraped was then cleaned, analyzed, and visualized using pandas and matplotlib. The project was conducted through the guidelines below.
+News article and weather data about Mars was scraped, cleaned, analyzed, and visualized to identify trends and make conclusions. Web scraping was conducted using Splinter to automatically browse and Beautiful Soup to parse HTML. The data that was scraped was then cleaned, analyzed, and visualized using pandas and matplotlib. The project was conducted through the guidelines below.
 
 ## Part 1: Scrape Titles and Preview Text from Mars News
 Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipynb. You will work in this code as you follow the steps below to scrape the Mars News website.
